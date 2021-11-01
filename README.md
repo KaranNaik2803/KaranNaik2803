@@ -37,8 +37,6 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F403-4039227_c-language-logo-png-transparent-png.png&imgrefurl=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FhTJTRhw_c-language-logo-png-transparent-png%2F&tbnid=bH_LFBHUr2MY3M&vet=12ahUKEwja-5erz_fzAhUZGbcAHR8kAOMQMygBegUIARCoAQ..i&docid=tg2oTnvdxCmgtM&w=860&h=751&q=C%20language%20png%20transparent&ved=2ahUKEwja-5erz_fzAhUZGbcAHR8kAOMQMygBegUIARCoAQ"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 

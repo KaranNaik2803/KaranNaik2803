@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working at Sony India Software Pvt. Ltd.
 - 🌱 I’m currently learning more about C++ and Python.
-- 💬 Ask me about Flutter or any tech-related stuff.
+- 💬 Very much interested into tech talks. 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/__.mr.__.hunky.__/) , [LinkedIn](https://www.linkedin.com/in/karan-naik-a0550a1a4/)
 - 😄 Community guy who loves being involved in communities and help others grow.
 - ⚡ I love to write Quotes, and also has an Instagram page of it.

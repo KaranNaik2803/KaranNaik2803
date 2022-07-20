@@ -1,4 +1,4 @@
-## Hola, I'm [Karan Naik!] 👋
+## Hola, I'm Karan Naik ! 👋
 
 
 <a href="https://twitter.com/karanna44442874">

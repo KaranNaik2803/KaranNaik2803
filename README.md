@@ -28,10 +28,10 @@
 
 - 🔭 I’m currently working at Sony India Software Pvt. Ltd.
 - 🌱 I’m currently learning more about C++ and Python.
-- 💬 Very much interested into tech talks. 
-- 📫 How to reach me: [Instagram](https://www.instagram.com/__.mr.__.hunky.__/) , [LinkedIn](https://www.linkedin.com/in/karan-naik-a0550a1a4/)
-- 😄 Community guy who loves being involved in communities and help others grow.
-- ⚡ I love to write Quotes, and also has an Instagram page of it.
+- 💬 Very much interested in tech talks. 
+- 📫 How to reach me: [Instagram](https://www.instagram.com/karan.naik__/) , [LinkedIn](https://www.linkedin.com/in/karan-naik-a0550a1a4/)
+- 😄 Community guy who loves community involvement and helping others grow.
+- ⚡ I love to write Quotes and also have an Instagram page.
 
 [![GitHub KaranNaik2803](https://img.shields.io/github/followers/KaranNaik2803?label=follow&style=social)](https://github.com/KaranNaik2803)
 

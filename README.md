@@ -1,5 +1,6 @@
-## Hola, I'm Karan Naik ! 👋
+## Hello, I'm Karan Naik! 👋
 
+[![portfolio](https://img.shields.io/website?url=https%3A%2F%2Fkarannaik2803old.netlify.app%2F&down_color=Red&logoSize=auto&label=personal-portfolio)][portfolio]
 
 <a href="https://twitter.com/karanna44442874">
   <img align="left" alt="Karan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -20,7 +21,6 @@
 <a href="https://www.facebook.com/profile.php?id=10005290978865">
   <img align="left" alt="Karan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
 
 <br/>
 <br/>
@@ -53,4 +53,4 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaranNaik2803&show_icons=true&theme=light&line_height=27" alt="Karan's github stats"/>
 </a>
 
-
+[portfolio]: https://karannaik2803old.netlify.app/

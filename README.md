@@ -37,13 +37,18 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png"></code>
+<img align="left" height="35" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
+<img align="left" height="35" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png">
+<img align="left" height="35" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img align="left" height="35" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img align="left" height="35" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img align="left" height="35" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img align="left" height="35" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/OpenGL_logo.svg/640px-OpenGL_logo.svg.png">
+<img align="left" height="35" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-jenkins-logo-icon-download-in-svg-png-gif-file-formats--brand-world-logos-vol-2-pack-icons-282182.png">
+<img align="left" height="35" style="padding-right:10px;" src="https://i.pinimg.com/originals/37/0a/6c/370a6cb7a084c4b4c2fe667147509e1b.png">
+<img align="left" height="35" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
+<img align="left" height="35" style="padding-right:10px;" src="https://docs.pytest.org/en/stable/_static/pytest1.png">
+<br></br>
 
 <a href="https://github.com/KaranNaik2803">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranNaik2803&theme=light&hide_langs_below=1" />

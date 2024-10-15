@@ -1,4 +1,4 @@
-## Hello, I'm Karan Naik! 👋
+## Hello there, I'm Karan Naik! 👋
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fkarannaik2803-college.netlify.app%2F&up_message=up&up_color=green&down_message=offline&down_color=red&label=portfolio-website)
 

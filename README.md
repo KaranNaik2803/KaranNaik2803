@@ -57,4 +57,4 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaranNaik2803&show_icons=true&theme=light&line_height=27" alt="Karan's github stats"/>
 </a>
 
-[portfolio]: https://karannaik2803old.netlify.app/
+[portfolio]: https://karannaik2803-college.netlify.app/

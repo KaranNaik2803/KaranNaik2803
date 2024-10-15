@@ -1,6 +1,6 @@
 ## Hello, I'm Karan Naik! 👋
 
-[![portfolio](https://img.shields.io/website?url=https%3A%2F%2Fkarannaik2803old.netlify.app%2F&down_color=Red&logoSize=auto&label=personal-portfolio)][portfolio]
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fkarannaik2803-college.netlify.app%2F&up_message=up&up_color=green&down_message=offline&down_color=red&label=portfolio-website)
 
 <a href="https://twitter.com/karanna44442874">
   <img align="left" alt="Karan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
